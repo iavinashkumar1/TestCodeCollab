@@ -1,12 +1,9 @@
-#include <stdio>
+#include <stdio.in>
 
-main()
+int main()
 {
-char x = 0;
-printf("hello\n");
-  printf
-      
-      
-      printf("hello1111\n");
-  ("hello1111\n");
+    char x = 0;
+    printf("hello\n");
+    printf("hello1111\n");
+    printf("hello_new\n");
 }
